@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("""
                 --------------------------------------------------
-                Se arrancan los vehículos a través de clase absxxx
+                Se arrancan los vehículos a través de clase abs
                 --------------------------------------------------
                 """);
 
